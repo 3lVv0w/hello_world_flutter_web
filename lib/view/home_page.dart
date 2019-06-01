@@ -27,6 +27,9 @@ class HomePage extends StatelessWidget {
             ),
             Text(
               'ภาษาไทยรองรับหรือยัง?',
+            ),
+            Text(
+              'สวัสดี',
             )
           ],
         ),
