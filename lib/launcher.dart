@@ -6,9 +6,8 @@ class Launcher extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Google 1/0 2019',
-      theme: ThemeData(
-        primarySwatch: Colors.red,
-      ),
+      // theme: ThemeData.dark(),
+      theme: ThemeData.light(),
       home: HomePage(title: 'Flutter For Web Demo'),
       debugShowCheckedModeBanner: false,
     );
