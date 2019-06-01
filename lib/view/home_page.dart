@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
               'Google 1/0 2019!',
             ),
             Text(
-              'Exntendded BKK',
+              'Extended BKK',
             ),
             Text(
               'ภาษาไทยรองรับหรือยัง',
