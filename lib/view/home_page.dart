@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
               'Hello, World!',
             ),
             Text(
-              'Google 1/0\n 2019!',
+              'Google 1/0 2019!',
             ),
             Text(
               'Exntendded BKK',
