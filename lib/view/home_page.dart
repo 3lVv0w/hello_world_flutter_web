@@ -17,19 +17,19 @@ class HomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Hello, World!',
+              'Hello, Flutter ',
             ),
             Text(
               'Google 1/0 2019!',
             ),
             Text(
-              'Extended BKK',
+              'Korat MeetUp #1',
             ),
             Text(
               'ภาษาไทยรองรับหรือยัง?',
             ),
             Text(
-              'สวัสดี',
+              'รองรับแล้ววววววววว',
             )
           ],
         ),
