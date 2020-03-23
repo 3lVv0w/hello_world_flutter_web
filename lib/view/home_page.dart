@@ -1,4 +1,4 @@
-import 'package:flutter_web/material.dart';
+import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
   HomePage({Key key, this.title}) : super(key: key);
@@ -7,7 +7,6 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print('Hello');
     return Scaffold(
       appBar: AppBar(
         title: Text(title),
@@ -17,13 +16,16 @@ class HomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Hello, Flutter ',
+              'Hello, Flutter',
             ),
             Text(
-              'Google 1/0 2019!',
+              'PaloIT (Thailand)',
             ),
             Text(
-              'Korat MeetUp #1',
+              'Join Us!!!!!',
+            ),
+            Text(
+              'Flutter MeetUp #1',
             ),
             Text(
               'ภาษาไทยรองรับหรือยัง?',
